@@ -1,4 +1,4 @@
-# DiscordAccountTokenGenerator
+# Account Generator
 Create new a account in just 5 second, the fastest token generator is here.
 
 Please add proxies into the 'proxies.txt'.
